@@ -92,7 +92,7 @@ publishing:
         - root
     enableSiteLastModified: true
     siteRootDir: docs
-    siteUrl: https://dendronhq.github.io
+    siteUrl: https://hugsch.github.io
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true
