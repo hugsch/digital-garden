@@ -86,7 +86,7 @@ publishing:
     enableMermaid: true
     enablePrettyRefs: true
     enableKatex: true
-    assetsPrefix: /template.publish.github-action
+    assetsPrefix: /digital-garden
     copyAssets: true
     siteHierarchies:
         - root
