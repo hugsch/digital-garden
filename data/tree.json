@@ -1,0 +1,90 @@
+{
+  "roots": [
+    {
+      "key": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Home",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "7acegw0h7cn55xejq0nu4je",
+          "title": "About",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "yl5tlid4141gy7o2lwm2kr5",
+          "title": "Exif",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": []
+        },
+        {
+          "key": "h7szm11potrghg3gosuhipa",
+          "title": "Qgis",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "f5nrz94zmaz5u0pft1by5ze",
+              "title": "Globe",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "77xh6xy072wxw7ax89sfbhr",
+          "title": "VSE",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "sbp55yigsb1520nsln22ohq",
+              "title": "Integrate voice-over with background music",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "2kulwe7c9axclfc27vbg59a",
+              "title": "Working with masks in the VSE",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "wn8PE1RhG0znK1alrGFYv": null,
+    "h7szm11potrghg3gosuhipa": "wn8PE1RhG0znK1alrGFYv",
+    "f5nrz94zmaz5u0pft1by5ze": "h7szm11potrghg3gosuhipa",
+    "77xh6xy072wxw7ax89sfbhr": "wn8PE1RhG0znK1alrGFYv",
+    "2kulwe7c9axclfc27vbg59a": "77xh6xy072wxw7ax89sfbhr",
+    "sbp55yigsb1520nsln22ohq": "77xh6xy072wxw7ax89sfbhr",
+    "yl5tlid4141gy7o2lwm2kr5": "wn8PE1RhG0znK1alrGFYv",
+    "7acegw0h7cn55xejq0nu4je": "wn8PE1RhG0znK1alrGFYv"
+  }
+}
