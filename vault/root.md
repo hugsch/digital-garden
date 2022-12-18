@@ -2,7 +2,7 @@
 id: wn8PE1RhG0znK1alrGFYv
 title: Welcome to my digital garden
 desc: ""
-updated: 1671291876457
+updated: 1671405828724
 created: 1631901573363
 ---
 
@@ -17,3 +17,5 @@ A collection of thoughts and articles at different development stages: from seed
 [[QGIS: creating a travel map|qgis.travel-map]]
 
 [[ExifTool|exiftool]]
+
+[[Integration of Audacity with VSE|vse.audio]]
