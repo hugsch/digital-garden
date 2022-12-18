@@ -1,10 +1,11 @@
 ---
 id: yl5tlid4141gy7o2lwm2kr5
-title: Extract data & time from videos & photos
+title: Exif
 desc: 'Using Exiftool to discover all date & time info from videos & photos'
-updated: 1671302386846
+updated: 1671406472918
 created: 1671291261161
 ---
+
 Sometimes you need to know the date and time a photo is taken or a video is recorded. Nowadays, digital cameras store these metadata within the file itself, next to the actual image, or in an external file (sidecar). Typical metadata elements are: date and time the photo was taken, location, camera brand, camera setup (aperture, shutter speed), ... There are a few standard types of metadata: Exif, XMP, IPTC, and Dublin Core; see [PhotoMetadata.org](https://photometadata.org/META-101-metadata-types) for an in-depth review. Sometimes, the metadata is absent or deleted or incorrect.
 - You have scanned the photo from paper or the video from film. Maybe the development date is printed at the back of the photo or is reflected in the filename e.g. 20230431_135520.jpg. But, how can you transfer these dates into the metadata?
 - You have imported the digital images from a source that has deleted the metadata. For example, Whatsapp & Facebook will remove the date & time (and other info) at the time you upload the material. The name of the file gives you no clue what-so-ever; see figure 1. Other services will keep the metadata but make other changes. For example, uploading photos & videos to OneDrive will give you filenames like YYYYMMDD_HHMMSS, based on the available metadata or upload date. GooglePhotos will not change the original filename (e.g. img_1314.jpg) but will add a so-called side car file next to your photo or video with the same name (e.g. img_1314.jpg.xmp ). This sidecar contains either the date/time info from the original image and/or the date/time of uploading the file to the Google services. It will also convert your "live" (iPhone) photo to a small mp4-video.

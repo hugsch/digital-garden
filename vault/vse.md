@@ -1,8 +1,8 @@
 ---
 id: 77xh6xy072wxw7ax89sfbhr
-title: Vse
+title: VSE
 desc: ''
-updated: 1671276115110
+updated: 1671406519558
 created: 1671276108865
 ---
 Blender is a versatile open-source software used for modeling, sculpting, 2D drawing, animation, and video editing. Its video editor is a basic but robust editor; tightly integrated with the other parts of the Blender ecosystem. Upon opening Blender, the [splash screen](https://docs.blender.org/manual/en/dev/interface/window_system/splash.html) gives you the possibility to create a *Video Editing* project. Choosing this option takes you immediately into the Video Editing workspace.

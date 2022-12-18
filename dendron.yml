@@ -103,7 +103,7 @@ publishing:
     writeStubs: false
     seo:
         title: Hugsch Digital Garden
-        description: Where knowledge can grow!
+        description: ''
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub

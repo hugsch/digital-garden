@@ -1,8 +1,8 @@
 ---
 id: wn8PE1RhG0znK1alrGFYv
-title: Welcome to my digital garden
+title: Home
 desc: ""
-updated: 1671405828724
+updated: 1671406241278
 created: 1631901573363
 ---
 
