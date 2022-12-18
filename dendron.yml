@@ -102,8 +102,8 @@ publishing:
             - vault
     writeStubs: false
     seo:
-        title: Dendron
-        description: Personal knowledge space
+        title: Hugsch Digital Garden
+        description: Where knowledge can grow!
     github:
         enableEditLink: true
         editLinkText: Edit this page on GitHub
